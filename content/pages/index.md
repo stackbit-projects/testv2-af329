@@ -16,6 +16,9 @@ sections:
     text: >
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen test
+
+
+      ![](/images/Testimonial.png)
     actions:
       - type: Button
         label: Try it now
