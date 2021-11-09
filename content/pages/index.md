@@ -123,6 +123,7 @@ sections:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
+      - content/pages/blog/postlayout-riq0e7bsv.md
     styles:
       self:
         height: screen
