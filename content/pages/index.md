@@ -13,9 +13,9 @@ sections:
           opacity: 100
       type: ImageBlock
     title: Let's do this
-    text: >-
+    text: >
       The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+      any layout and any screen test
     actions:
       - type: Button
         label: Try it now
